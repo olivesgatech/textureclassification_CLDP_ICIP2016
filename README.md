@@ -1,5 +1,5 @@
 # textureclassification_CLDP_ICIP2016
-----------------------------------------------------------------------------------------------------------------------------------------
+
 Codes for the paper submitted to ICIP2016 titled "completed local derivative pattern for rotation invariant texture classification"
 By Yuting (huyuting@gatech.edu)
 Label: cldp_version1.0
@@ -15,7 +15,7 @@ Bib:
   year={2016},
   organization={IEEE}
 }
------------------------------------------------------------------------------------------------------------------------------------------
+
 1. Resources
 
    The codes are based on the following links:
