@@ -4,6 +4,17 @@
 %% By Yuting (huyuting@gatech.edu)
 %% Label: cldp_version1.0
 %% Date: 02/02/2016
+Ref:
+Y. Hu, Z. Long, G. AlRegib, “Completed Local Derivative Pattern for Rotation Invariant Texture Classification,” IEEE International Conference on Image Processing (ICIP 2016), pp. 3548-3552, 2016.
+Bib:
+@inproceedings{hu2016completed,
+  title={Completed local derivative pattern for rotation invariant texture classification},
+  author={Hu, Yuting and Long, Zhiling and AlRegib, Ghassan},
+  booktitle={Image Processing (ICIP), 2016 IEEE International Conference on},
+  pages={3548--3552},
+  year={2016},
+  organization={IEEE}
+}
 -----------------------------------------------------------------------------------------------------------------------------------------
 1. Resources
 
