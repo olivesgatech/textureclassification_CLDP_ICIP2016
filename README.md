@@ -56,8 +56,8 @@ Bib:
          CLDP_S/M/D/C(riu2): run matlab codes under ...\CLDP\Outex\Test_TC12\Test_TC12_000\Test_cldp\Test_cldp_smdcjoint;
          The codes return accuracy for the CLDP_S/M/D/C-based texture classifictition under various (P, R) values on test suit TC12_000("t184").
       b. 2nd subsheet (CLBP VS CLDP): comparisons between CLBP and CLDP on computation time for each combination scheme under a certain (P, R)
-   2) Table 1: Average classification accuracy (%) of CLBP and CLDP on TC10 (inca) and TC12 (t184 and horizon) using different combination schemes
+   2) Table 1: Average classification accuracy (%) of CLBP and CLDP on TC10 ("inca") and TC12 ("t184" and "horizon") using different combination schemes
       This table can be found from the 1st subsheet in ...\CLDP\Outex\Results\CDLP-based Classification Results_20160128.xlsx      
-   3) Table 2: Classification accuracy (%) of state-of-the-art texture descriptors on TC10 (inca) and TC12 (t184 and horizon)
+   3) Table 2: Classification accuracy (%) of state-of-the-art texture descriptors on TC10 ("inca") and TC12 ("t184" and "horizon")
       This table can be found from the 4th subsheet in ...\CLDP\Outex\Results\CDLP-based Classification Results_20160128.xlsx
 -----------------------------------------------------------------------------------------------------------------------------------------
